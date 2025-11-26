@@ -1,0 +1,7 @@
+{
+  "sqlite_path": "rebus_agent.db",
+  "redis_uri": "redis://127.0.0.1:6379",
+  "agent_id": "agent_1",
+  "threads": 4,
+  "control_port": 7510
+}
